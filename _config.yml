@@ -2,7 +2,7 @@
 title: OSGeo Oceania playpen
 email: adam@spatialised.net
 description: "Join us for three days of talks, discussions and workshops around the free and open map of the world."
-url: "https://spatialised.github.io/osgeo-oceania-template/calls/posters/" # the base hostname & protocol for your site
+url: "https://spatialised.github.io/osgeo-oceania-template/" # the base hostname & protocol for your site
 twitter_username: _spatialised_
 github_username:  Spatialised
 
