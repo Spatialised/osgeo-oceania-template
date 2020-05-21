@@ -5,9 +5,9 @@ titlecontent: ""
 headings: "intro,guidelines,timeline_deadlines,submit,committee,language,recording,travel_costs_visa,proceedings"
 ---
 
-<h2 id="intro">Academic Track</h2>
+<h2 id="intro">Academic Track 2020</h2>
 
-This year’s State of the Map conference will feature the third edition of the Academic Track - a full day of sessions dedicated to academic research about, and with, OpenStreetMap (for the outputs of last year’s Track, see [here](https://2019.stateofthemap.org/academic_programme/)). These sessions will showcase both the ongoing innovation and maturity of scientific investigations and research into OpenStreetMap. The Academic Track sessions will provide a bridge to connect members of the OpenStreetMap community and the academic community by providing an open passage for exchange of ideas, communication and opportunities for increased collaboration. We expect empirical, methodological, conceptual, or literature-review-based contributions addressing any scientific aspect related to OpenStreetMap (OSM), in particular, but not limited to, the following:
+This year’s FOSS4G Oceania conference will feature the third edition of the Academic Track - a full day of sessions dedicated to academic research about, and with, OpenStreetMap (for the outputs of last year’s Track, see [here](https://2019.stateofthemap.org/academic_programme/)). These sessions will showcase both the ongoing innovation and maturity of scientific investigations and research into OpenStreetMap. The Academic Track sessions will provide a bridge to connect members of the OpenStreetMap community and the academic community by providing an open passage for exchange of ideas, communication and opportunities for increased collaboration. We expect empirical, methodological, conceptual, or literature-review-based contributions addressing any scientific aspect related to OpenStreetMap (OSM), in particular, but not limited to, the following:
 
   * Extrinsic or intrinsic quality assessment of OpenStreetMap data
   * Analysis of contribution patterns in OpenStreetMap
